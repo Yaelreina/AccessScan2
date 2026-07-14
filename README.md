@@ -231,12 +231,13 @@ Potential improvements include:
 - Pandas
 - Matplotlib
 - Scikit-learn
+- cloude
 
 
 
 # 👥 Authors
 
 **Yael Reina**  
-**Sagi**
+**Sagi zinger**
 
 Final Project – *Artificial Intelligence Applications for Image Creation*
